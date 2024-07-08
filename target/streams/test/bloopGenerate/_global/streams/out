@@ -1,0 +1,4 @@
+[debug] [practical-04-test] Classpath dependencies List()
+[debug] [practical-04-test] Dependencies from configurations List(practical-04)
+[debug] Bloop wrote the configuration of project 'practical-04-test' to 'D:\UCSC\FP\Practical 04\practical-04\.bloop\practical-04-test.json'
+[success] Generated .bloop\practical-04-test.json
